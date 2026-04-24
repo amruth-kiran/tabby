@@ -7,27 +7,27 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Open Tabby Settings and find the [config file](https://github.com/Eugeny/tabby/wiki/Config-file#location). You can either edit it directly in the built-in editor, or click Show config file to open it in your favorite editor.
+2. Find the customColorSchemes section under terminal: and paste your favorite themes there.
+3. Back in Settings, go to Color Scheme and select the theme you just added.
 
 ## Gallery
 
 ### Rosé Pine
 
-<img width="256" alt="Rosé Pine with App" src="https://github.com/user-attachments/assets/3d9df6a3-0ee3-43f2-b934-83cf8f2806c2" />
+<img width="949" height="540" alt="tabby-rose-pine" src="https://github.com/user-attachments/assets/6be80fbf-e7b6-4f40-9e0f-557f18eb769c" />
 
 ### Rosé Pine Moon
 
-<img width="256" alt="Rosé Pine Moon with App" src="https://github.com/user-attachments/assets/0acf279b-492c-4d75-acba-9de1d6cc8fcb" />
+<img width="949" height="540" alt="tabby-rose-pine-moon" src="https://github.com/user-attachments/assets/0f7253c0-5123-482d-97ab-ca1fed689995" />
 
 ### Rosé Pine Dawn
 
-<img width="256" alt="Rosé Pine Dawn with App" src="https://github.com/user-attachments/assets/fb1b1d16-55e8-45db-b388-7c25250b8022" />
+<img width="949" height="540" alt="tabby-rose-pine-dawn" src="https://github.com/user-attachments/assets/de54b848-3a1e-45a2-9482-f2910452ce8a" />
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [You, it's you!](https://github.com/amruth-kiran)
 
 ## Contributing
 
