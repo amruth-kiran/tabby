@@ -27,12 +27,4 @@
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/amruth-kiran)
-
-## Contributing
-
-Modify `template.json` using Rosé Pine variables, then build variants:
-
-```sh
-npx @rose-pine/build@latest
-```
+- [Amruth Kiran](https://github.com/amruth-kiran)
